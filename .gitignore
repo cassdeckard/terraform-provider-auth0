@@ -46,3 +46,6 @@ override.tf.json
 # Environment
 .env
 .envrc
+
+# Personal stuff
+set-credentials.sh
